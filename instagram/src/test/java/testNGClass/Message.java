@@ -58,6 +58,7 @@ public class Message extends Base {
 		}	
 	}
 	
+	
 	@BeforeClass
 	public void before() {
 		System.out.println("Before Class");
